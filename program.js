@@ -5,7 +5,7 @@ var config = require('./config'),
     pusher = new PushBullet(config.id.pushAPI);
 
 dash.on("detected", function (){
-	pusher.note(config.id.deviceID, config.id.title, config.id.body);
-	console.log("success!");
+	pusher.note(config.id.deviceIDEN, config.id.title, config.id.body);
+	console.log("Push Sent!");
 });
 
