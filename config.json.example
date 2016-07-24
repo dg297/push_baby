@@ -1,0 +1,9 @@
+{"id":
+	{
+	"dashMAC":"< dash_Mac_here >",
+	"pushAPI":"< pushbullet_API_key >",
+	"deviceIDEN":"< pushbullet_device_IDEN >",
+	"title":"< title >",	
+	"body":"< body >"
+	}
+}
