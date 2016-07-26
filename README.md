@@ -4,8 +4,8 @@ A node app that sends a PushBullet notification using an Amazon Dash Button.
 
 **Libraries that were used:**
 
-* **node-dash-button:**for interacting with the Amazon Dash button
-* **node-pushbullet-api:** - for sending the notification
+* **node-dash-button:** For interacting with the Amazon Dash button
+* **node-pushbullet-api:** For sending the notification
 
 ###Version
 * 0.0.1
